@@ -12,8 +12,8 @@ Cuando hago ejercicio me siento relajado.
 
 🌱 ¿Qué hábito simple podrías incorporar esta semana para sentirte mejor?
 Meditacion, antes de realizar actividades
-
-🚀 Parte 2: Mi plan de autocuidado
+----------------------------------------------
+##🚀 Parte 2: Mi plan de autocuidado
 ✅ Hábito físico que quiero incorporar
 
 Realizar 15 minutos de yoga enfocado en cuello y hombros
